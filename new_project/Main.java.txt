@@ -1,0 +1,7 @@
+class Main {
+
+public static Void Main(String args[]) {
+
+System.out.println("Welcome....:)");
+	}
+}
